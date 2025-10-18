@@ -1,7 +1,7 @@
 
 
 
-def selection_sort(list: List[int]) -> List[int]:
+def selection_sort(list):
    
     for i in range(len(list)):
         min_idx = i
